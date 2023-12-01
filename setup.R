@@ -7,6 +7,7 @@ usethis::edit_r_environ()
 ## Select the Network tab
 ## Refresh the page, and select the "adventofcode.com" request
 ## Under Request Headers, there should be a cookie including session=<cookie here>. Copy that without the session=.
-
 usethis::use_r("ex01")
-usethis::use_r("ex02")
+source("create_template.R")
+use_aoc_template(2, 2023)
+
