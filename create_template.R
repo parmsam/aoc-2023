@@ -35,4 +35,5 @@ use_aoc_template <- function(exercise, year, date_chr = lubridate::today()) {
     message("'.R' contents copied")
   }
   message("Template successfully copied!")
+  rstudioapi::navigateToFile(new_file)
 }

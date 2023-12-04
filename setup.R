@@ -10,4 +10,5 @@ usethis::edit_r_environ()
 usethis::use_r("ex01")
 source("create_template.R")
 use_aoc_template(2, 2023)
+use_aoc_template(3, 2023)
 
