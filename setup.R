@@ -12,4 +12,6 @@ source("create_template.R")
 use_aoc_template(2, 2023)
 use_aoc_template(3, 2023)
 use_aoc_template(4, 2023)
+use_aoc_template(5, 2023)
+use_aoc_template(6, 2023)
 
