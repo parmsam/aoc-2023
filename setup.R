@@ -14,4 +14,8 @@ use_aoc_template(3, 2023)
 use_aoc_template(4, 2023)
 use_aoc_template(5, 2023)
 use_aoc_template(6, 2023)
+use_aoc_template(7, 2023)
+
+
+use_aoc_template(9, 2023)
 
